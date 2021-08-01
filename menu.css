@@ -1,0 +1,76 @@
+.navbar {
+    background-color: #CD853F !important;
+    opacity: 0.5;
+}
+
+.logo {
+    width: 150px;
+    height: 50px;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold !important;
+    margin-right: 25px !important;
+}
+
+.nav-link:hover {
+    text-decoration: underline !important;
+    color: rgb(150, 10, 20) !important;
+}
+
+.bg-primary {
+    background-color: #CD853F !important;
+    margin-top: 50px !important;
+}
+
+.fa-facebook,
+.fa-instagram-square,
+.fa-twitter-square,
+.fa-youtube {
+    font-size: 30px !important;
+    margin: 15px !important;
+    color: black !important;
+}
+
+.fa-copyright {
+    font-size: 30px !important;
+    margin: 15px !important;
+}
+
+.header {
+    text-align: center;
+}
+
+.my-container {
+    margin-top: 50px !important;
+}
+
+.card {
+    width: 210px !important;
+    border: none !important;
+}
+
+.btn-primary {
+    color: white !important;
+    background-color: #CD853F !important;
+    border-color: white !important;
+}
+
+.card-img-top {
+    height: 180px !important;
+}
+
+.btn:hover {
+    color: rgb(150, 10, 20) !important;
+}
+
+.first:hover {
+    background-color: #CD853F !important;
+    color: white !important;
+}
+
+.head:hover {
+    color: white !important;
+    transition: 0.5s !important;
+}
